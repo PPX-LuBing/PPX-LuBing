@@ -4,7 +4,7 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=PPX-LuBing&show_icons=true&theme=bear" >
   <img  src = "https://github-readme-streak-stats.herokuapp.com?user=PPX-LuBing&theme=dark&hide_border=true" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPX-LuBing&layout=compact&langs_count=8&theme=dark"/> 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PPX-LuBing">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PPX-LuBing&theme=github-compact">
 
 <!--
 **PPX-LuBing/PPX-LuBing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
